@@ -1,7 +1,7 @@
 # Mapping Earthquakes
 
 ## Overview:
-In this module, I created an earthquake map with two different base-maps and an earthquake overlay.  For challenge, I was required to add earthquake data in relation to the tectonic plates' location on earth and highlight all the earthquakes with a magnitude greater than 4.5 on three separate base-maps.
+In this module, I created an earthquake map with two different base-maps and an earthquake overlay. The challenge required adding earthquake data in relation to the tectonic plates' location on earth and highlighting all the earthquakes with a magnitude greater than 4.5 on three separate base-maps.
 
 
 
